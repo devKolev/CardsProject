@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cards Beta</string>
+    <string name="info_title">About</string>
+    <string name="tab_item_main">Главный экран</string>
+    <string name="tab_item_contacts">Контакты</string>
+</resources>
